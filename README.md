@@ -1,3 +1,23 @@
+<h2 align="left">About Me</h2>
+
+###
+
+<p align="left">- Ciências da Computação [6º Período]</p>
+
+###
+
+<h2 align="left">Techs</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+</div>
+
+###
+
 <h2 align="left">Status</h2>
 
 ###
